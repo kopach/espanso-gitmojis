@@ -1,12 +1,23 @@
 # Espanso Gitmojis
 
-A package for [gitmojis](https://gitmoji.carloscuesta.me/).
+A package for [Gitmojis](https://gitmoji.carloscuesta.me/).
 
-## Usage
+## Installation
 
-Every gitmoji can be written and replaced by the corresponding emoji.
+Make sure you have already installed [Espanso](https://espanso.org/install/) first.
 
-## Run the script
+```sh
+espanso install gitmojis
+espanso restart
+```
+
+That's all. You can start using the package. Open your favorite editor and type `:sparkles` to test!
+
+## Triggers
+
+Every gitmoji can be written and replaced by the corresponding emoji. The list is available on the webpqge of [Gitmojis](https://gitmoji.carloscuesta.me/).
+
+## Run the build script
 
 `make install`
 or
