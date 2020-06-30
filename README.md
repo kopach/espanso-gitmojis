@@ -4,4 +4,4 @@ A package for [gitmojis](https://gitmoji.carloscuesta.me/).
 
 ## Usage
 
-Evry gitmoji can be written and replaced by the corresponding emoji.
+Every gitmoji can be written and replaced by the corresponding emoji.
