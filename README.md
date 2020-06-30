@@ -1,4 +1,7 @@
-# espanso-package-example
-An example on how to create an espanso package.
+# Espanso Gitmojis
 
-For more information, read the [documentation](https://espanso.org/docs/)
+A package for [gitmojis](https://gitmoji.carloscuesta.me/).
+
+## Usage
+
+Evry gitmoji can be written and replaced by the corresponding emoji.
