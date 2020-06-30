@@ -19,15 +19,7 @@ Every gitmoji can be written and replaced by the corresponding emoji. The list i
 
 ## Run the build script
 
-`make install`
-or
-```sh
-python3 -m venv .env
-. .env/bin/activate
-python3 -m pip install -r requirements.txt
 ```
-
-Then
-`make run`
-or
-`python3 generate.py`
+make install
+make run
+```
