@@ -11,7 +11,7 @@ espanso install gitmojis
 espanso restart
 ```
 
-That's all. You can start using the package. Open your favorite editor and type `:sparkles` to test!
+That's all. You can start using the package. Open your favorite editor and type `:sparkles:` to test!
 
 ## Triggers
 
