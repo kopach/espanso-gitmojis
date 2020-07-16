@@ -15,7 +15,7 @@ That's all. You can start using the package. Open your favorite editor and type 
 
 ## Triggers
 
-Every gitmoji can be written and replaced by the corresponding emoji. The list is available on the webpqge of [Gitmojis](https://gitmoji.carloscuesta.me/).
+Every gitmoji can be written and replaced by the corresponding emoji. The list is available on the webpage of [Gitmojis](https://gitmoji.carloscuesta.me/).
 
 ## Run the build script
 
